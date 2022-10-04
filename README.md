@@ -1,4 +1,4 @@
-### Merhaba 👋
+### Hi 👋
 - 🔭 I’m currently working on psychometrics  at the <a href="https://www.hacettepe.edu.tr/">University of Hacettepe </a>.
 - 
 <!--
