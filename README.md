@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🔭 I’m  an Associate Professor of measurement and evaluation at the <a href="[https://www.hacettepe.edu.tr/](https://avesis.hacettepe.edu.tr/katalay)">University of Hacettepe </a>.
+- 🔭 I’m  an Associate Professor of measurement and evaluation at the <a href="https://avesis.hacettepe.edu.tr/katalay"> University of Hacettepe </a>.
 
 
 - [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)]([https://www.researchgate.net/profile/Okan-Bulut-2](https://www.researchgate.net/profile/Kubra-Atalay-Kabasakal))
